@@ -52,4 +52,4 @@ def box(output,papka,detector,painted = False,normType = cv.NORM_L2):
         print(i)
 
 
-box("AKAZE","Sandyha_Y",cv.AKAZE_create(), painted = False,normType = cv.NORM_L2)
+box("ORB","Kharchenko_A",cv.ORB_create(), painted = False,normType = cv.NORM_HAMMING)
