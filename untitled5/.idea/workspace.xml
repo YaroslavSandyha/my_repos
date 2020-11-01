@@ -1,64 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/venv/lab_2.py" line="53" />
+    <bookmark url="file://$PROJECT_DIR$/venv/lab_2.py" line="69" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4cdffa8-16af-4be6-9b41-0c176bd6aabc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/venv/AKAZE/1_localization_hryak.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/AKAZE/1_localization_img.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/AKAZE/1_localization_lul.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/AKAZE/1_time_hryak.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/AKAZE/1_time_img.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/AKAZE/1_time_lul.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/AKAZE/1_true_hryak.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/AKAZE/1_true_img.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/AKAZE/1_true_lul.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/AKAZE/2_localization_hryak.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/AKAZE/2_localization_img.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/AKAZE/2_localization_lul.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/AKAZE/2_time_hryak.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/AKAZE/2_time_img.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/AKAZE/2_time_lul.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/AKAZE/2_true_hryak.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/AKAZE/2_true_img.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/AKAZE/2_true_lul.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/ORB/1_localization_hryak.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/ORB/1_localization_img.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/ORB/1_localization_lul.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/ORB/1_time_hryak.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/ORB/1_time_img.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/ORB/1_time_lul.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/ORB/1_true_hryak.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/ORB/1_true_img.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/ORB/1_true_lul.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/ORB/2_localization_hryak.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/ORB/2_localization_img.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/ORB/2_localization_lul.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/ORB/2_time_hryak.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/ORB/2_time_img.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/ORB/2_time_lul.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/ORB/2_true_hryak.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/ORB/2_true_img.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/ORB/2_true_lul.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/SIFT/1_localization_hryak.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/SIFT/1_localization_img.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/SIFT/1_localization_lul.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/SIFT/1_time_hryak.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/SIFT/1_time_img.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/SIFT/1_time_lul.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/SIFT/1_true_hryak.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/SIFT/1_true_img.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/SIFT/1_true_lul.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/SIFT/2_localization_hryak.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/SIFT/2_localization_img.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/SIFT/2_localization_lul.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/SIFT/2_time_hryak.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/SIFT/2_time_img.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/SIFT/2_time_lul.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/SIFT/2_true_hryak.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/SIFT/2_true_img.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/SIFT/2_true_lul.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/AKAZE/1_localization_Hikal_A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/AKAZE/1_localization_Hikal_A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/AKAZE/1_localization_Kharchenko_A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/AKAZE/1_localization_Kharchenko_A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/AKAZE/1_localization_Sandyha_Y.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/AKAZE/1_localization_Sandyha_Y.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/AKAZE/1_time_Hikal_A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/AKAZE/1_time_Hikal_A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/AKAZE/1_time_Kharchenko_A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/AKAZE/1_time_Kharchenko_A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/AKAZE/1_time_Sandyha_Y.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/AKAZE/1_time_Sandyha_Y.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/AKAZE/1_true_Hikal_A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/AKAZE/1_true_Hikal_A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/AKAZE/1_true_Kharchenko_A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/AKAZE/1_true_Kharchenko_A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/AKAZE/1_true_Sandyha_Y.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/AKAZE/1_true_Sandyha_Y.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/AKAZE/2_localization_Hikal_A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/AKAZE/2_localization_Hikal_A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/AKAZE/2_localization_Kharchenko_A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/AKAZE/2_localization_Kharchenko_A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/AKAZE/2_localization_Sandyha_Y.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/AKAZE/2_localization_Sandyha_Y.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/AKAZE/2_time_Hikal_A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/AKAZE/2_time_Hikal_A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/AKAZE/2_time_Kharchenko_A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/AKAZE/2_time_Kharchenko_A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/AKAZE/2_time_Sandyha_Y.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/AKAZE/2_time_Sandyha_Y.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/AKAZE/2_true_Hikal_A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/AKAZE/2_true_Hikal_A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/AKAZE/2_true_Kharchenko_A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/AKAZE/2_true_Kharchenko_A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/AKAZE/2_true_Sandyha_Y.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/AKAZE/2_true_Sandyha_Y.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ORB/1_localization_Hikal_A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ORB/1_localization_Hikal_A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ORB/1_localization_Kharcheko_A.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ORB/1_localization_Kharchenko_A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ORB/1_localization_Kharchenko_A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ORB/1_localization_Sandyha_Y.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ORB/1_localization_Sandyha_Y.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ORB/1_time_Hikal_A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ORB/1_time_Hikal_A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ORB/1_time_Kharcheko_A.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ORB/1_time_Kharchenko_A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ORB/1_time_Kharchenko_A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ORB/1_time_Sandyha_Y.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ORB/1_time_Sandyha_Y.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ORB/1_true_Hikal_A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ORB/1_true_Hikal_A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ORB/1_true_Kharcheko_A.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ORB/1_true_Kharchenko_A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ORB/1_true_Kharchenko_A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ORB/1_true_Sandyha_Y.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ORB/1_true_Sandyha_Y.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ORB/2_localization_Hikal_A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ORB/2_localization_Hikal_A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ORB/2_localization_Kharcheko_A.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ORB/2_localization_Kharchenko_A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ORB/2_localization_Kharchenko_A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ORB/2_localization_Sandyha_Y.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ORB/2_localization_Sandyha_Y.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ORB/2_time_Hikal_A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ORB/2_time_Hikal_A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ORB/2_time_Kharcheko_A.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ORB/2_time_Kharchenko_A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ORB/2_time_Kharchenko_A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ORB/2_time_Sandyha_Y.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ORB/2_time_Sandyha_Y.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ORB/2_true_Hikal_A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ORB/2_true_Hikal_A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ORB/2_true_Kharcheko_A.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ORB/2_true_Kharchenko_A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ORB/2_true_Kharchenko_A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ORB/2_true_Sandyha_Y.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ORB/2_true_Sandyha_Y.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/SIFT/1_localization_Hikal_A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/SIFT/1_localization_Hikal_A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/SIFT/1_localization_Kharchenko_A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/SIFT/1_localization_Kharchenko_A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/SIFT/1_localization_Sandyha_Y.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/SIFT/1_localization_Sandyha_Y.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/SIFT/1_time_Hikal_A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/SIFT/1_time_Hikal_A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/SIFT/1_time_Kharchenko_A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/SIFT/1_time_Kharchenko_A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/SIFT/1_time_Sandyha_Y.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/SIFT/1_time_Sandyha_Y.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/SIFT/1_true_Hikal_A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/SIFT/1_true_Hikal_A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/SIFT/1_true_Kharchenko_A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/SIFT/1_true_Kharchenko_A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/SIFT/1_true_Sandyha_Y.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/SIFT/1_true_Sandyha_Y.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/SIFT/2_localization_Hikal_A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/SIFT/2_localization_Hikal_A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/SIFT/2_localization_Kharchenko_A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/SIFT/2_localization_Kharchenko_A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/SIFT/2_localization_Sandyha_Y.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/SIFT/2_localization_Sandyha_Y.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/SIFT/2_time_Hikal_A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/SIFT/2_time_Hikal_A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/SIFT/2_time_Kharchenko_A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/SIFT/2_time_Kharchenko_A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/SIFT/2_time_Sandyha_Y.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/SIFT/2_time_Sandyha_Y.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/SIFT/2_true_Hikal_A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/SIFT/2_true_Hikal_A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/SIFT/2_true_Kharchenko_A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/SIFT/2_true_Kharchenko_A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/SIFT/2_true_Sandyha_Y.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/SIFT/2_true_Sandyha_Y.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/lab_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lab_2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -72,8 +79,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/venv/lab_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="54" column="85" lean-forward="true" selection-start-line="54" selection-start-column="85" selection-end-line="54" selection-end-column="85" />
+            <state relative-caret-position="420">
+              <caret line="45" column="25" lean-forward="true" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -101,10 +108,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-10" />
+    <option name="y" value="2" />
     <option name="width" value="1940" />
-    <option name="height" value="1060" />
+    <option name="height" value="1035" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -197,23 +205,32 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="2" width="1552" height="828" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48101267" visible="true" weight="0.24966975" />
-      <window_info id="Structure" order="1" sideWeight="0.51898736" side_tool="true" visible="true" weight="0.24966975" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.46628407" visible="true" weight="0.24934037" />
+      <window_info id="Structure" order="1" sideWeight="0.5337159" side_tool="true" visible="true" weight="0.24934037" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4953765" weight="0.32956153" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.91743726" weight="0.29268292" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4980185" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49867898" weight="0.32956153" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50462353" side_tool="true" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4993395" weight="0.32956153" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4993395" weight="0.32956153" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.54623514" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.082562745" side_tool="true" weight="0.4837341" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -224,8 +241,8 @@
     <entry file="file://$PROJECT_DIR$/venv/test.py" />
     <entry file="file://$PROJECT_DIR$/venv/lab_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="54" column="85" lean-forward="true" selection-start-line="54" selection-start-column="85" selection-end-line="54" selection-end-column="85" />
+        <state relative-caret-position="420">
+          <caret line="45" column="25" lean-forward="true" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
