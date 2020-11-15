@@ -23,6 +23,7 @@ def box(output,papka, detector,normType = cv.NORM_L2):
          kp2, des2 = detector.detectAndCompute(img2, None)
          X_pca = pca.fit_transform(des2.T).reshape(1, -1)
          desi.append(X_pca[0])
+         print(i)
     support.fit(desi, training)
     desi = []
     for i in range( 1, len(test) + 1):
@@ -32,6 +33,7 @@ def box(output,papka, detector,normType = cv.NORM_L2):
         X_pca = pca.fit_transform(des2.T).reshape(1, -1)
         desi.append(X_pca[0])
     pred = support.predict(desi)
+    print(pred)
     endtime = time.time()
     test_true_realy1 = 0
     test_true1 = 0
@@ -83,4 +85,4 @@ def box(output,papka, detector,normType = cv.NORM_L2):
     cv.destroyAllWindows()
 
 
-box("AKAZE","Kharchenko_A",cv.AKAZE_create(),normType = cv.NORM_L2)
+box("SIFT","Sandyha_Y",cv.SIFT_create(),normType = cv.NORM_L2)
